@@ -1,4 +1,4 @@
-# Simplest React Setup For A HTML Project
+# Simplest React Setup
 
-Compile: 
+Transpile: 
 npm run build
