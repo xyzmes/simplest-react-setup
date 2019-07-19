@@ -1,4 +1,4 @@
-# Simplest React Setuo For A HTML Project
+# Simplest React Setup For A HTML Project
 
 Compile: 
 npm run build
