@@ -1,6 +1,13 @@
 # Simplest React Setup
 
 react and react-dom are imported from CDN.
-Just transpile and use anywhere. 
 
-Transpile: npm run build
+Use with parcel bundler. 
+
+```
+npm install -g parcel-bundler
+```
+Run parcel: 
+```
+parcel index.html
+```
